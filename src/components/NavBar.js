@@ -1,5 +1,5 @@
 import React from "react"
-import Icon from "../assets/icons8-globus-48.png"
+import Icon from "../assets/icons8-globus_-asien-50.png"
 
 export default function NavBar (){
     return(

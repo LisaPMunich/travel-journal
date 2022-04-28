@@ -17,7 +17,9 @@ export default function App (){
             <NavBar/>
             <section className="cards-list">
                 {dataItems}
+
             </section>
+
         </div>
     )
 }
